@@ -1,0 +1,108 @@
+Facility,	Patient ID,	Sample Date,	Result,	Log Copies
+Thim Lich Nyatike,	00078MTL-7,	2015-07-02,	< LDL copies/ml,	N/A,	Importation Failed!
+Macalder Nyatike,	03776MMC-3,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Macalder Nyatike,	03133MMC-1,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Macalder Nyatike,	03809MMC-4,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Macalder Nyatike,	03311MMC-5,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Macalder Nyatike,	03190MMC-1,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Macalder Nyatike,	03532MMC-8,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Nyatike,	03155MMH-3,	2015-07-06,	9056,	4,	Importation Failed!
+Muhuru Nyatike,	02875MMH-4,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Nyatike,	02355MMH-3,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Nyatike,	01726MMH-7,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Nyatike,	02073MMH-4,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Namba-Kodero Nyatike,	00211MNK-3,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Ndiwa,	00851MND-3,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Ndiwa,	00795MND-2,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Ndiwa,	01403MND-4,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01944MOL-2,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	02044MOL-9,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01327MOL-9,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01561MOL-4,	2015-07-06,	54,	1.7,	Importation Failed!
+Olasi Nyatike,	00655MOL-3,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	00017MOL-6,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01187MOL-8,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01744MOL-4,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	00700MOL-8,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01440MOL-1,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01686MOL-4,	2015-07-06,	71,	1.9,	Importation Failed!
+Olasi Nyatike,	00464MOL-4,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	00164MOL-7,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Otati Nyatike,	00287MOA-3,	2015-07-06,	105,	2,	Importation Failed!
+Wath Onger,	01197MWO-1,	2015-07-06,	154,	2.2,	Importation Failed!
+Wath Onger,	00431MWO-9,	2015-07-06,	< LDL copies/ml,	N/A,	Importation Failed!
+Wath Onger,	00823MWO-5,	2015-07-06,	7464,	3.9,	Importation Failed!
+Agenga Nyatike,	00148MAG-3,	2015-07-07,	< LDL copies/ml,	N/A,	Importation Failed!
+Macalder Nyatike,	03100MMC-0,	2015-07-15,	< LDL copies/ml,	N/A,	Importation Failed!
+Nyamanga Nyatike,	00222MNN-3,	2015-07-15,	< LDL copies/ml,	N/A,	Importation Failed!
+Nyandago Nyatike,	00359MNY-4,	2015-07-15,	157516,	5.2,	Importation Failed!
+Nyandago Nyatike,	00219MNY-4,	2015-07-15,	7826,	3.9,	Importation Failed!
+Nyandago Nyatike,	00327MNY-3,	2015-07-15,	< LDL copies/ml,	N/A,	Importation Failed!
+Olasi Nyatike,	01917MOL-5,	2015-07-15,	32999,	4.5,	Importation Failed!
+Othoch Rakuom,	00694MOT-8,	2015-07-15,	< LDL copies/ml,	N/A,	Importation Failed!
+Sori Lakeside Nyatike,	00568MSL-5,	2015-07-15,	< LDL copies/ml,	N/A,	Importation Failed!
+Wath Onger,	01216MWO-8,	2015-07-15,	70384,	4.8,	Importation Failed!
+Wath Onger,	01215MWO-9,	2015-07-15,	7722,	3.9,	Importation Failed!
+Wath Onger,	01499MWO-6,	2015-07-15,	< LDL copies/ml,	N/A,	Importation Failed!
+Sori Lakeside Nyatike,	00721MSL-9,	2015-07-22,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00367MAG-7,	2015-07-23,	5196,	3.7,	Importation Failed!
+Diruma Nyatike,	00004MDR-9,	2015-07-23,	688,	2.8,	Importation Failed!
+Matoso Nyatike,	02744MMT-6,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Matoso Nyatike,	02864MMT-0,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Matoso Nyatike,	02783MMT-8,	2015-07-23,	280590,	5.4,	Importation Failed!
+Ndiwa,	00266MND-2,	2015-07-23,	345222,	5.5,	Importation Failed!
+Ndiwa,	00577MND-6,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Riat Nyatike,	00344MRI-3,	2015-07-23,	1598,	3.2,	Importation Failed!
+Riat Nyatike,	00493MRI-2,	2015-07-23,	23432,	4.4,	Importation Failed!
+Riat Nyatike,	00438MRI-0,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Riat Nyatike,	00358MRI-6,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Thim Lich Nyatike,	00036MTL-8,	2015-07-23,	7784,	3.9,	Importation Failed!
+Thim Lich Nyatike,	00077MTL-8,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Thim Lich Nyatike,	00170MTL-4,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Thim Lich Nyatike,	00064MTL-3,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Obware Nyatike,	00121MOB-1,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Obware Nyatike,	00045MOB-4,	2015-07-23,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00538MAG-1,	2015-07-27,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00979MAG-7,	2015-07-27,	< LDL copies/ml,	N/A,	Importation Failed!
+Kombato Nyatike,	00062MKM-2,	2015-07-27,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00385MAG-5,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00918MAG-1,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Bande Nyatike,	00043MBA-1,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Bande Nyatike,	00022MBA-6,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Matoso Nyatike,	02699MMT-1,	2015-07-28,	104086,	5,	Importation Failed!
+Matoso Nyatike,	02492MMT-0,	2015-07-28,	78,	1.9,	Importation Failed!
+Ndiwa,	01264MND-2,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Nyandago Nyatike,	00590MNY-3,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Ochuna Nyatike,	00107MOC-7,	2015-07-28,	366,	2.6,	Importation Failed!
+Wath Onger,	00791MWO-3,	2015-07-28,	56,	1.7,	Importation Failed!
+Wath Onger,	01208MWO-8,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Wath Onger,	00553MWO-1,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Wath Onger,	01043MWO-7,	2015-07-28,	2692,	3.4,	Importation Failed!
+Wath Onger,	01361MWO-1,	2015-07-28,	< LDL copies/ml,	N/A,	Importation Failed!
+Bande Nyatike,	00005MBA-7,	2015-07-29,	< LDL copies/ml,	N/A,	Importation Failed!
+Kituka Nyatike,	00158MKT-1,	2015-07-29,	< LDL copies/ml,	N/A,	Importation Failed!
+Kituka Nyatike,	00219MKT-8,	2015-07-29,	< LDL copies/ml,	N/A,	Importation Failed!
+Kituka Nyatike,	00068MKT-0,	2015-07-29,	50,	1.7,	Importation Failed!
+Kituka Nyatike,	00040MKT-3,	2015-07-29,	< LDL copies/ml,	N/A,	Importation Failed!
+Kituka Nyatike,	00305MKT-3,	2015-07-29,	71652,	4.9,	Importation Failed!
+Kituka Nyatike,	00130MKT-4,	2015-07-29,	39944,	4.6,	Importation Failed!
+Kombato Nyatike,	00272MKM-8,	2015-07-29,	400,	2.6,	Importation Failed!
+Sori Lakeside Nyatike,	01221MSL-2,	2015-07-29,	19788,	4.3,	Importation Failed!
+Wath Onger,	00322MWO-1,	2015-07-29,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Dice Nyatike,	00311MDE-5,	2015-07-29,	6704,	3.8,	Importation Failed!
+Muhuru Dice Nyatike,	00133MDE-1,	2015-07-29,	78,	1.9,	Importation Failed!
+Matoso Nyatike,	00626MMT-3,	2015-07-30,	< LDL copies/ml,	N/A,	Importation Failed!
+Wath Onger,	00833MWO-3,	2015-07-30,	58,	1.8,	Importation Failed!
+Wath Onger,	01226MWO-6,	2015-07-30,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00985MAG-9,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00654MAG-9,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00972MAG-4,	2015-08-03,	64,	1.8,	Importation Failed!
+Agenga Nyatike,	00892MAG-1,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00337MAG-4,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00968MAG-0,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Agenga Nyatike,	00189MAG-3,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Sori Lakeside Nyatike,	00691MSL-5,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Sori Lakeside Nyatike,	01031MSL-2,	2015-08-03,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Dice Nyatike,	00310MDE-6,	2015-08-05,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Dice Nyatike,	00112MDE-6,	2015-08-05,	< LDL copies/ml,	N/A,	Importation Failed!
+Muhuru Dice Nyatike,	00082MDE-2,	2015-08-05,	< LDL copies/ml,	N/A,	Importation Failed!

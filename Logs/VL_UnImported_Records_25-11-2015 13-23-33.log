@@ -1,0 +1,610 @@
+Facility,	Patient ID,	Sample Date,	Result,	Log Copies
+Obware Nyatike,	00067MOB-7,	2015-06-11,	4292,	3.6,	Invalid Patient Record.
+Obware Nyatike,	00031MOB-0,	2015-06-11,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00647MAG-9,	2015-06-15,	83,	1.9,	Invalid Patient Record.
+Karungu Nyatike,	01887MKR-2,	2015-06-15,	12486,	4.1,	Invalid Patient Record.
+Karungu Nyatike,	03408MKR-8,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03398MKR-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03513MKR-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02839MKR-9,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03497MKR-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	00194MKR-2,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03399MKR-9,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00030MKM-1,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01100MLW-1,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	00722MLW-1,	2015-06-15,	1638,	3.2,	Invalid Patient Record.
+Lwanda Nyatike,	01069MLW-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01132MLW-3,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01014MLW-6,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	00640MLW-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01230MLW-4,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	00580MMC-5,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02249MMC-4,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	00210MMC-3,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03425MMC-8,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02422MMC-3,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03995MMC-8,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02963MMH-7,	2015-06-15,	11914,	4.1,	Invalid Patient Record.
+Muhuru Nyatike,	00432MMH-4,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01097MMH-8,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02718MMH-5,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00865MMH-0,	2015-06-15,	21144,	4.3,	Invalid Patient Record.
+Muhuru Nyatike,	01684MMH-7,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02861MMH-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02436MMH-6,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00691MMH-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00261MMH-0,	2015-06-15,	32496,	4.5,	Invalid Patient Record.
+Muhuru Nyatike,	02865MMH-6,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00792MMH-8,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02544MMH-5,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00429MMH-9,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01557MOL-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00831MOL-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01956MOL-7,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01929MOL-1,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01630MOL-1,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00615MOA-6,	2015-06-15,	10086,	4,	Invalid Patient Record.
+Otati Nyatike,	00123MOA-1,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00488MOA-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00293MOA-5,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00168MOA-7,	2015-06-15,	1256,	3.1,	Invalid Patient Record.
+Otati Nyatike,	00327MOA-5,	2015-06-15,	34134,	4.5,	Invalid Patient Record.
+Othoch Rakuom,	01394MOT-9,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01094MOT-2,	2015-06-15,	61,	1.8,	Invalid Patient Record.
+Othoch Rakuom,	00939MOT-3,	2015-06-15,	22699,	4.4,	Invalid Patient Record.
+Othoch Rakuom,	01626MOT-9,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01641MOT-0,	2015-06-15,	78,	1.9,	Invalid Patient Record.
+Riat Nyatike,	00329MRI-2,	2015-06-15,	171676,	5.2,	Invalid Patient Record.
+Riat Nyatike,	00248MRI-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00324MRI-7,	2015-06-15,	85336,	4.9,	Invalid Patient Record.
+Riat Nyatike,	00284MRI-5,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00376MRI-4,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00160MSL-7,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01042MSL-9,	2015-06-15,	6154,	3.8,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00927MSL-1,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00831MSL-6,	2015-06-15,	15093,	4.2,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00911MSL-9,	2015-06-15,	129534,	5.1,	Invalid Patient Record.
+Wath Onger,	01083MWO-8,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01481MWO-6,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01138MWO-3,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01088MWO-3,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Winjo Nyatike,	00140MWN-3,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Winjo Nyatike,	00096MWN-7,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Winjo Nyatike,	00145MWN-8,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Winjo Nyatike,	00101MWN-0,	2015-06-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00933MAG-2,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03565MKR-7,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01449MKR-3,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03540MKR-7,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	00886MKR-5,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01507MKR-2,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03326MKR-7,	2015-06-16,	1222410,	6.1,	Invalid Patient Record.
+Karungu Nyatike,	03323MKR-0,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01106MLW-5,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	00738MLW-3,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02517MMC-9,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02197MMC-6,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	04047MMC-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02250MMC-0,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02781MMT-0,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	00476MMT-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01068MMH-3,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01711MMH-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02759MMH-5,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02483MMH-8,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02842MMH-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00531MMH-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00236MNK-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00141MNK-8,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00200MNK-6,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00224MNK-8,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	01039MND-6,	2015-06-16,	14057,	4.1,	Invalid Patient Record.
+Ndiwa,	00770MND-1,	2015-06-16,	2327,	3.4,	Invalid Patient Record.
+Ndiwa,	00747MND-1,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00599MNY-4,	2015-06-16,	10914,	4,	Invalid Patient Record.
+Ochuna Nyatike,	00125MOC-5,	2015-06-16,	8023,	3.9,	Invalid Patient Record.
+Ochuna Nyatike,	00142MOC-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01712MOL-2,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01760MOL-3,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01775MOL-6,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01857MOL-7,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01611MOL-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01774MOL-7,	2015-06-16,	32499,	4.5,	Invalid Patient Record.
+Olasi Nyatike,	01911MOL-1,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00772MOL-1,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00172MOL-7,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00737MOL-5,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01250MOL-0,	2015-06-16,	81,	1.9,	Invalid Patient Record.
+Olasi Nyatike,	00693MOL-7,	2015-06-16,	7108,	3.9,	Invalid Patient Record.
+Olasi Nyatike,	01888MOL-0,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01983MOL-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00733MOL-9,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01758MOL-7,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00516MOL-2,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01156MOL-5,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00299MOL-5,	2015-06-16,	17296,	4.2,	Invalid Patient Record.
+Olasi Nyatike,	00533MOL-1,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01554MOL-3,	2015-06-16,	704240,	5.8,	Invalid Patient Record.
+Othoch Rakuom,	00934MOT-8,	2015-06-16,	589,	2.8,	Invalid Patient Record.
+Othoch Rakuom,	01365MOT-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01646MOT-5,	2015-06-16,	59,	1.8,	Invalid Patient Record.
+Othoch Rakuom,	01726MOT-8,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	00245MOT-2,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01632MOT-1,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00255MRI-0,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00307MRI-8,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00664MSL-8,	2015-06-16,	1198,	3.1,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00714MSL-8,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01019MSL-8,	2015-06-16,	970,	3,	Invalid Patient Record.
+Wath Onger,	01186MWO-4,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01437MWO-1,	2015-06-16,	50629,	4.7,	Invalid Patient Record.
+Wath Ong'er Migori,	01364MWO-8,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Winjo Nyatike,	00001MWN-1,	2015-06-16,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00025MBA-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00026MBA-2,	2015-06-17,	1319,	3.1,	Invalid Patient Record.
+Kituka Nyatike,	00274MKT-0,	2015-06-17,	55,	1.7,	Invalid Patient Record.
+Kituka Nyatike,	00029MKT-8,	2015-06-17,	156056,	5.2,	Invalid Patient Record.
+Kombato Nyatike,	00146MKM-2,	2015-06-17,	1819,	3.3,	Invalid Patient Record.
+Kombato Nyatike,	00215MKM-8,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00102MKM-4,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00154MKM-1,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00088MKM-2,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00182MKM-7,	2015-06-17,	182,	2.3,	Invalid Patient Record.
+Lwanda Nyatike,	00016MLW-6,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03551MMC-4,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03613MMC-0,	2015-06-17,	2857,	3.5,	Invalid Patient Record.
+Muhuru Nyatike,	00731MMH-2,	2015-06-17,	689,	2.8,	Invalid Patient Record.
+Muhuru Nyatike,	02863MMH-8,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02512MMH-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01949MMH-8,	2015-06-17,	4456,	3.6,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00173MNK-9,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00264MNK-9,	2015-06-17,	1883,	3.3,	Invalid Patient Record.
+Ndiwa,	00685MND-5,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	01123MND-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00171MND-6,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00033MND-4,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00015MND-6,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00485MND-7,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00414MND-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00505MND-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00719MNY-9,	2015-06-17,	230444,	5.4,	Invalid Patient Record.
+Nyandago Nyatike,	00683MNY-1,	2015-06-17,	221,	2.3,	Invalid Patient Record.
+Olasi Nyatike,	01196MOL-7,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01859MOL-5,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00304MOL-8,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01608MOL-9,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00710MOL-6,	2015-06-17,	438,	2.6,	Invalid Patient Record.
+Olasi Nyatike,	01556MOL-1,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01406MOL-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00857MOL-9,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00228MOL-1,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01413MOL-4,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01431MOL-2,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01501MOL-7,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01294MOL-8,	2015-06-17,	405,	2.6,	Invalid Patient Record.
+Olasi Nyatike,	00834MOL-7,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01097MOL-7,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00551MOL-8,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00782MOL-9,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00203MOL-0,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00895MOL-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	00356MOT-7,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01448MOT-5,	2015-06-17,	3517,	3.5,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01012MSL-5,	2015-06-17,	27643,	4.4,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00854MSL-8,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00617MSL-6,	2015-06-17,	519,	2.7,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01155MSL-2,	2015-06-17,	17072,	4.2,	Invalid Patient Record.
+Wath Onger,	01096MWO-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	00638MWO-0,	2015-06-17,	87038,	4.9,	Invalid Patient Record.
+Winjo Nyatike,	00106MWN-5,	2015-06-17,	3978,	3.6,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00123MDE-3,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00154MDE-5,	2015-06-17,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00409MKB-8,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00666MKB-6,	2015-06-18,	2110,	3.3,	Invalid Patient Record.
+Kabuto Nyatike,	00293MKB-7,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00400MKB-7,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03183MKR-9,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03321MKR-2,	2015-06-18,	426,	2.6,	Invalid Patient Record.
+Karungu Nyatike,	03500MKR-5,	2015-06-18,	38500,	4.6,	Invalid Patient Record.
+Kombato Nyatike,	00236MKM-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00069MKM-5,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00301MKM-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	01419MMC-0,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02002MMC-1,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	04048MMC-3,	2015-06-18,	5034813,	6.7,	Invalid Patient Record.
+Macalder Nyatike,	00232MMC-7,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03546MMC-2,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02483MMC-9,	2015-06-18,	112,	2,	Invalid Patient Record.
+Matoso Nyatike,	02746MMT-4,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02754MMT-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02521MMT-5,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02018MMT-5,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02462MMH-3,	2015-06-18,	5534,	3.7,	Invalid Patient Record.
+Muhuru Nyatike,	00641MMH-1,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00003MNK-5,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00182MNK-8,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00214MNN-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00459MNN-7,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00070MNN-6,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00191MNN-0,	2015-06-18,	112,	2,	Invalid Patient Record.
+Nyamanga Nyatike,	00172MNN-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00180MNN-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00309MNN-9,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00589MNY-6,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00525MNY-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00652MNY-8,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00656MNY-4,	2015-06-18,	59882,	4.8,	Invalid Patient Record.
+Olasi Nyatike,	00577MOL-8,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01819MOL-4,	2015-06-18,	3116,	3.5,	Invalid Patient Record.
+Olasi Nyatike,	01696MOL-2,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01066MOL-4,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00556MOL-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01266MOL-2,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01720MOL-2,	2015-06-18,	10652,	4,	Invalid Patient Record.
+Olasi Nyatike,	01307MOL-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00370MOL-7,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00489MOA-9,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00198MOA-1,	2015-06-18,	105910,	5,	Invalid Patient Record.
+Otati Nyatike,	00559MOA-4,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00328MOA-4,	2015-06-18,	1504,	3.2,	Invalid Patient Record.
+Otati Nyatike,	00423MOA-8,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	00141MOT-7,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01515MOT-3,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00399MRI-7,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00340MRI-7,	2015-06-18,	92,	2,	Invalid Patient Record.
+Riat Nyatike,	00339MRI-0,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00523MRI-6,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00524MRI-5,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00510MRI-1,	2015-06-18,	19448,	4.3,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01156MSL-1,	2015-06-18,	201598,	5.3,	Invalid Patient Record.
+Thim Lich Nyatike,	00068MTL-9,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01008MWO-0,	2015-06-18,	42,	1.6,	Invalid Patient Record.
+Winjo Nyatike,	00009MWN-3,	2015-06-18,	1358,	3.1,	Invalid Patient Record.
+Obware Nyatike,	00122MOB-0,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Obware Nyatike,	00084MOB-6,	2015-06-18,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Obware Nyatike,	00030MOB-1,	2015-06-18,	1056,	3,	Invalid Patient Record.
+Macalder Nyatike,	04150MMC-7,	2015-06-19,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	01048MAG-2,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00520MAG-1,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00380MAG-0,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00826MAG-2,	2015-06-22,	73272,	4.9,	Invalid Patient Record.
+Agenga Nyatike,	00492MAG-5,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01086MLW-9,	2015-06-22,	384,	2.6,	Invalid Patient Record.
+Macalder Nyatike,	03969MMC-0,	2015-06-22,	3896,	3.6,	Invalid Patient Record.
+Macalder Nyatike,	01722MMC-2,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03656MMC-8,	2015-06-22,	80,	1.9,	Invalid Patient Record.
+Macalder Nyatike,	04280MMC-0,	2015-06-22,	280,	2.4,	Invalid Patient Record.
+Macalder Nyatike,	03942MMC-2,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	02764MMC-9,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03810MMC-1,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	00921MMC-3,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	04024MMC-1,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03089MMC-5,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03977MMC-0,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03081MMC-3,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	00164MMC-9,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	01221MND-4,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	01118MND-0,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00998MOL-9,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01782MOL-7,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00540MOA-6,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	00031MOT-0,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01451MOT-9,	2015-06-22,	119946,	5.1,	Invalid Patient Record.
+Othoch Rakuom,	00792MOT-9,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01494MOT-8,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	00508MOT-4,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01580MOT-3,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Othoch Rakuom,	01212MOT-9,	2015-06-22,	737518,	5.9,	Invalid Patient Record.
+Othoch Rakuom,	01513MOT-5,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00809MSL-4,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	00317MWO-8,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	00787MWO-9,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01403MWO-1,	2015-06-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02480MKR-1,	2015-06-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03115MKR-2,	2015-06-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02736MKR-3,	2015-06-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00024MKM-9,	2015-06-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00152MKM-3,	2015-06-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	00830MLW-0,	2015-06-23,	10919,	4,	Invalid Patient Record.
+Lwanda Nyatike,	00813MLW-1,	2015-06-23,	4595,	3.7,	Invalid Patient Record.
+Muhuru Nyatike,	02513MMH-2,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02023MMH-5,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02934MMH-3,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02197MMH-5,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00778MMH-6,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02789MMH-9,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00012MMH-2,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01229MMH-9,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02148MMH-5,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02914MMH-7,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02049MMH-5,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01293MMH-0,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01502MMH-7,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00099MNK-0,	2015-07-01,	23432,	4.4,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00168MNK-6,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00952MND-1,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	01407MND-0,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	01024MND-3,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00204MND-7,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00482MND-0,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00761MND-2,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00459MND-9,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00887MND-1,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00791MND-6,	2015-07-01,	2590,	3.4,	Invalid Patient Record.
+Nyandago Nyatike,	00213MNY-0,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00710MNY-8,	2015-07-01,	5686,	3.8,	Invalid Patient Record.
+Nyandago Nyatike,	00553MNY-8,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00290MNY-6,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00580MOL-3,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00937MOL-3,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01244MOL-9,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01122MOL-6,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01105MOL-7,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00260MOL-0,	2015-07-01,	578,	2.8,	Invalid Patient Record.
+Olasi Nyatike,	01048MOL-7,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01358MOL-1,	2015-07-01,	836,	2.9,	Invalid Patient Record.
+Olasi Nyatike,	00724MOL-0,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00470MOL-6,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00581MOL-2,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00942MOL-6,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01507MOL-1,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01790MOL-7,	2015-07-01,	3697,	3.6,	Invalid Patient Record.
+Olasi Nyatike,	00582MOL-1,	2015-07-01,	29119,	4.5,	Invalid Patient Record.
+Olasi Nyatike,	01683MOL-7,	2015-07-01,	47363,	4.7,	Invalid Patient Record.
+Olasi Nyatike,	01563MOL-2,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01924MOL-6,	2015-07-01,	3570,	3.6,	Invalid Patient Record.
+Othoch Rakuom,	01408MOT-3,	2015-07-01,	1294,	3.1,	Invalid Patient Record.
+Othoch Rakuom,	01407MOT-4,	2015-07-01,	23970,	4.4,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01105MSL-3,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00151MSL-8,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00554MSL-1,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00176MSL-9,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00331MSL-1,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Winjo Nyatike,	00169MWN-9,	2015-07-01,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00044MDE-9,	2015-07-01,	3984,	3.6,	Invalid Patient Record.
+Agenga Nyatike,	00778MAG-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00611MAG-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00158MAG-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00943MAG-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00840MAG-4,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00489MAG-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00274MAN-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00287MAN-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00237MAN-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00056MAN-7,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00150MAN-2,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00199MAN-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00189MAN-7,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00187MAN-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00261MAN-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00203MAN-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00194MAN-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00042MAN-4,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00231MAN-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00114MAN-7,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00185MAN-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Aneko Nyatike,	00102MAN-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00229MBA-7,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00036MBA-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00113MBA-6,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00126MBA-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00311MBA-6,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00150MBA-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00356MKB-1,	2015-07-02,	1824,	3.3,	Invalid Patient Record.
+Kabuto Nyatike,	00571MKB-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00387MKB-4,	2015-07-02,	7310,	3.9,	Invalid Patient Record.
+Kabuto Nyatike,	00496MKB-2,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00282MKB-0,	2015-07-02,	22472,	4.4,	Invalid Patient Record.
+Kabuto Nyatike,	00428MKB-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00578MKB-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00422MKB-1,	2015-07-02,	237448,	5.4,	Invalid Patient Record.
+Kabuto Nyatike,	00333MKB-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00326MKB-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00603MKB-2,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00185MKB-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00395MKB-4,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kabuto Nyatike,	00233MKB-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01724MKR-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03487MKR-2,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03217MKR-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01094MKR-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02212MKR-6,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02262MKR-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03091MKR-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03229MKR-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03209MKR-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03137MKR-6,	2015-07-02,	115281,	5.1,	Invalid Patient Record.
+Karungu Nyatike,	02128MKR-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01317MKR-2,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02632MKR-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	00444MKR-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00122MKM-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00311MKM-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	00828MLW-4,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	00359MMC-4,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	01535MMC-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	04173MMC-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	01117MMC-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03895MMC-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03929MMC-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	00300MMC-4,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	01239MMC-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03569MMC-4,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02302MMT-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02742MMT-8,	2015-07-02,	5767,	3.8,	Invalid Patient Record.
+Matoso Nyatike,	02612MMT-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	00054MMT-4,	2015-07-02,	438,	2.6,	Invalid Patient Record.
+Muhuru Nyatike,	03130MMH-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02899MMH-6,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02216MMH-2,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	03075MMH-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01961MMH-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02505MMH-2,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02074MMH-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	00128MMH-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01196MMH-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02205MMH-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02347MMH-4,	2015-07-02,	2462,	3.4,	Invalid Patient Record.
+Muhuru Nyatike,	02703MMH-2,	2015-07-02,	8346,	3.9,	Invalid Patient Record.
+Muhuru Nyatike,	02770MMH-0,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02724MMH-7,	2015-07-02,	1200,	3.1,	Invalid Patient Record.
+Muhuru Nyatike,	02868MMH-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02045MMH-9,	2015-07-02,	20524,	4.3,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00255MNK-0,	2015-07-02,	7260,	3.9,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00229MNK-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00189MNK-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00133MNN-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00173MNN-2,	2015-07-02,	23108,	4.4,	Invalid Patient Record.
+Nyamanga Nyatike,	00402MNN-5,	2015-07-02,	384234,	5.6,	Invalid Patient Record.
+Otati Nyatike,	00101MOA-7,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00431MOA-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00113MOA-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00481MOA-7,	2015-07-02,	23313,	4.4,	Invalid Patient Record.
+Otati Nyatike,	00143MOA-7,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01085MSL-7,	2015-07-02,	428,	2.6,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00703MSL-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01084MSL-8,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01093MSL-7,	2015-07-02,	53208,	4.7,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01109MSL-9,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00451MSL-5,	2015-07-02,	11696,	4.1,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01149MSL-1,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Thim Lich Nyatike,	00260MTL-5,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Thim Lich Nyatike,	00137MTL-6,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Thim Lich Nyatike,	00162MTL-4,	2015-07-02,	900,	3,	Invalid Patient Record.
+Thim Lich Nyatike,	00078MTL-7,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Thim Lich Nyatike,	00148MTL-3,	2015-07-02,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	04188MMC-3,	2015-07-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	01430MMC-5,	2015-07-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	04201MMC-6,	2015-07-03,	18068,	4.3,	Invalid Patient Record.
+Agenga Nyatike,	00961MAG-7,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00157MAG-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00503MAG-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00069MAG-8,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00869MAG-0,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00424MAG-8,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01493MKR-8,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02553MKR-3,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02512MKR-3,	2015-07-06,	1427,	3.2,	Invalid Patient Record.
+Karungu Nyatike,	02628MKR-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	02919MKR-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03354MKR-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	03579MKR-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01820MKR-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Karungu Nyatike,	01573MKR-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00203MKM-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	00871MLW-0,	2015-07-06,	1331,	3.1,	Invalid Patient Record.
+Lwanda Nyatike,	01134MLW-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01039MLW-7,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	01068MLW-1,	2015-07-06,	507,	2.7,	Invalid Patient Record.
+Lwanda Nyatike,	01141MLW-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Lwanda Nyatike,	00810MLW-4,	2015-07-06,	61,	1.8,	Invalid Patient Record.
+Macalder Nyatike,	03646MMC-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	04144MMC-6,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03247MMC-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03324MMC-0,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03776MMC-3,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03133MMC-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03809MMC-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03311MMC-5,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03190MMC-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03532MMC-8,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	03155MMH-3,	2015-07-06,	9056,	4,	Invalid Patient Record.
+Muhuru Nyatike,	02875MMH-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02355MMH-3,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	01726MMH-7,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Nyatike,	02073MMH-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Namba-Kodero Nyatike,	00211MNK-3,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00851MND-3,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	00795MND-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ndiwa,	01403MND-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01944MOL-2,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	02044MOL-9,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01327MOL-9,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01561MOL-4,	2015-07-06,	54,	1.7,	Invalid Patient Record.
+Olasi Nyatike,	00655MOL-3,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00017MOL-6,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01187MOL-8,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01744MOL-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00700MOL-8,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01440MOL-1,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01686MOL-4,	2015-07-06,	71,	1.9,	Invalid Patient Record.
+Olasi Nyatike,	00464MOL-4,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	00164MOL-7,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Otati Nyatike,	00287MOA-3,	2015-07-06,	105,	2,	Invalid Patient Record.
+Wath Onger,	01197MWO-1,	2015-07-06,	154,	2.2,	Invalid Patient Record.
+Wath Onger,	00431MWO-9,	2015-07-06,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	00823MWO-5,	2015-07-06,	7464,	3.9,	Invalid Patient Record.
+Agenga Nyatike,	00148MAG-3,	2015-07-07,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Macalder Nyatike,	03100MMC-0,	2015-07-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyamanga Nyatike,	00222MNN-3,	2015-07-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00359MNY-4,	2015-07-15,	157516,	5.2,	Invalid Patient Record.
+Nyandago Nyatike,	00219MNY-4,	2015-07-15,	7826,	3.9,	Invalid Patient Record.
+Nyandago Nyatike,	00327MNY-3,	2015-07-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Olasi Nyatike,	01917MOL-5,	2015-07-15,	32999,	4.5,	Invalid Patient Record.
+Othoch Rakuom,	00694MOT-8,	2015-07-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00568MSL-5,	2015-07-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01216MWO-8,	2015-07-15,	70384,	4.8,	Invalid Patient Record.
+Wath Onger,	01215MWO-9,	2015-07-15,	7722,	3.9,	Invalid Patient Record.
+Wath Onger,	01499MWO-6,	2015-07-15,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00721MSL-9,	2015-07-22,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00367MAG-7,	2015-07-23,	5196,	3.7,	Invalid Patient Record.
+Diruma Nyatike,	00004MDR-9,	2015-07-23,	688,	2.8,	Invalid Patient Record.
+Matoso Nyatike,	02744MMT-6,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02864MMT-0,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02783MMT-8,	2015-07-23,	280590,	5.4,	Invalid Patient Record.
+Ndiwa,	00266MND-2,	2015-07-23,	345222,	5.5,	Invalid Patient Record.
+Ndiwa,	00577MND-6,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00344MRI-3,	2015-07-23,	1598,	3.2,	Invalid Patient Record.
+Riat Nyatike,	00493MRI-2,	2015-07-23,	23432,	4.4,	Invalid Patient Record.
+Riat Nyatike,	00438MRI-0,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Riat Nyatike,	00358MRI-6,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Thim Lich Nyatike,	00036MTL-8,	2015-07-23,	7784,	3.9,	Invalid Patient Record.
+Thim Lich Nyatike,	00077MTL-8,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Thim Lich Nyatike,	00170MTL-4,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Thim Lich Nyatike,	00064MTL-3,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Obware Nyatike,	00121MOB-1,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Obware Nyatike,	00045MOB-4,	2015-07-23,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00538MAG-1,	2015-07-27,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00979MAG-7,	2015-07-27,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kombato Nyatike,	00062MKM-2,	2015-07-27,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00385MAG-5,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00918MAG-1,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00043MBA-1,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00022MBA-6,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Matoso Nyatike,	02699MMT-1,	2015-07-28,	104086,	5,	Invalid Patient Record.
+Matoso Nyatike,	02492MMT-0,	2015-07-28,	78,	1.9,	Invalid Patient Record.
+Ndiwa,	01264MND-2,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Nyandago Nyatike,	00590MNY-3,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Ochuna Nyatike,	00107MOC-7,	2015-07-28,	366,	2.6,	Invalid Patient Record.
+Wath Onger,	00791MWO-3,	2015-07-28,	56,	1.7,	Invalid Patient Record.
+Wath Onger,	01208MWO-8,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	00553MWO-1,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	01043MWO-7,	2015-07-28,	2692,	3.4,	Invalid Patient Record.
+Wath Onger,	01361MWO-1,	2015-07-28,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Bande Nyatike,	00005MBA-7,	2015-07-29,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kituka Nyatike,	00158MKT-1,	2015-07-29,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kituka Nyatike,	00219MKT-8,	2015-07-29,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kituka Nyatike,	00068MKT-0,	2015-07-29,	50,	1.7,	Invalid Patient Record.
+Kituka Nyatike,	00040MKT-3,	2015-07-29,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Kituka Nyatike,	00305MKT-3,	2015-07-29,	71652,	4.9,	Invalid Patient Record.
+Kituka Nyatike,	00130MKT-4,	2015-07-29,	39944,	4.6,	Invalid Patient Record.
+Kombato Nyatike,	00272MKM-8,	2015-07-29,	400,	2.6,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01221MSL-2,	2015-07-29,	19788,	4.3,	Invalid Patient Record.
+Wath Onger,	00322MWO-1,	2015-07-29,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00311MDE-5,	2015-07-29,	6704,	3.8,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00133MDE-1,	2015-07-29,	78,	1.9,	Invalid Patient Record.
+Matoso Nyatike,	00626MMT-3,	2015-07-30,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Wath Onger,	00833MWO-3,	2015-07-30,	58,	1.8,	Invalid Patient Record.
+Wath Onger,	01226MWO-6,	2015-07-30,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00985MAG-9,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00654MAG-9,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00972MAG-4,	2015-08-03,	64,	1.8,	Invalid Patient Record.
+Agenga Nyatike,	00892MAG-1,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00337MAG-4,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00968MAG-0,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Agenga Nyatike,	00189MAG-3,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	00691MSL-5,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Sori Lakeside Nyatike,	01031MSL-2,	2015-08-03,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00310MDE-6,	2015-08-05,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00112MDE-6,	2015-08-05,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+Muhuru Dice Nyatike,	00082MDE-2,	2015-08-05,	< LDL copies/ml,	N/A,	Invalid Patient Record.

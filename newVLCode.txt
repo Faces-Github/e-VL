@@ -1,0 +1,97 @@
+    public int getRequestPost(String URLPath, StringEntity input, String params) throws Exception {
+        
+        /*
+            The return value can take the following values:
+                0 = Unsuccessful
+                1 = Successful
+                2 = Unsuccesful due to internet connection. Terminate the outside loop!
+        */
+        
+        String URL = openURLBase + URLPath;
+        String responseString = new String();
+        String connStatusMessage = "";
+        int response =  0;
+        HttpContext localContext = new BasicHttpContext();
+        HttpClient httpclient = HttpClientBuilder.create().build();
+        Gson gsonBuilder = new GsonBuilder().create();  // Edwin: 26Nov18
+        
+        try {
+            HttpPost httpPost = new HttpPost(URL);
+            UsernamePasswordCredentials credentials = new UsernamePasswordCredentials(openUserName, openPassword);
+            BasicScheme scheme = new BasicScheme();
+            Header authorizationHeader = scheme.authenticate(credentials, httpPost, localContext);
+            httpPost.setHeader(authorizationHeader);
+            
+            // Edwin: 26Nov18
+
+            httpPost.addHeader("Content-Type", "application/x-www-form-urlencoded");
+            httpPost.addHeader("apikey", "hbSNAer4anou3YoqE5");
+            StringEntity newParams = new StringEntity(params);
+            
+            // Edwin: 26Nov18
+            
+            // If the input parameter is NULL, use the other
+            if(input != null){
+                httpPost.setEntity(input);
+            }
+            else{
+                httpPost.setEntity(newParams);   // Edwin: 26Nov18
+            }
+                
+
+            HttpResponse responseRequest = httpclient.execute(httpPost);
+
+                if (responseRequest.getStatusLine().getStatusCode() != 204 && responseRequest.getStatusLine().getStatusCode() != 201 && responseRequest.getStatusLine().getStatusCode() != 200) {
+                        throw new RuntimeException("Failed : HTTP error code : "
+                                + responseRequest.getStatusLine().getStatusCode() + "\n"
+                                + responseRequest.getStatusLine().getReasonPhrase());
+                }
+
+                // Get the response Body
+                HttpEntity responseEntity = responseRequest.getEntity();
+                if(responseEntity != null) {
+                    responseString = EntityUtils.toString(responseEntity);
+                    System.out.println(responseString);
+                }
+
+                httpclient.getConnectionManager().shutdown();
+                
+                if(responseString.contains("FAIL")){
+                    return response;
+                }
+                
+                // Set success status of method
+                response = 1;
+        } 
+        catch (RuntimeException rEx){
+            System.out.println(rEx.getMessage());
+        }
+        catch (UnknownHostException exNoWeb) {
+            if(!noInternetConnection){
+                
+                connStatusMessage = "No internet connection detected. Upload process will stop.\n\nPlease resolve then try again.";
+
+                if (!uploadShippingManifest){
+                    connStatusMessage += "\n\nThe Shipping Manifest text file will still be generated for later use.";
+                }
+
+                JOptionPane.showMessageDialog(null, connStatusMessage);                
+                
+                noInternetConnection = true;
+            }
+            response = 2;
+        }
+        catch (IOException eIO) {
+            eIO.printStackTrace();
+        }
+        catch(Exception exError){
+            exError.getCause();
+            exError.printStackTrace();
+        }            
+
+        finally {
+            httpclient.getConnectionManager().shutdown();
+        }
+        return response;
+    }
+    

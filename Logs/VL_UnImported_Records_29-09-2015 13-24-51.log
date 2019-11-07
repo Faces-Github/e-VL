@@ -1,0 +1,1635 @@
+Facility,	Patient ID,	Sample Date,	Result,	Log Copies
+null,	00538RMN-2,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00308RNG-5,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00050RND-1,	2014-06-17,	1282,	3.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00344RND-7,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00352RNG-0,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00286RNG-1,	2014-10-21,	132,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00488RNM-4,	2014-10-23,	31413,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00481RNM-1,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00387RBW-6,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00210RNG-2,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00171RNM-6,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00437RNM-6,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00819RYN-0,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00680RSB-9,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00268RNM-0,	2014-10-28,	33424,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00233RNM-2,	2014-11-26,	236,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00279RDH-8,	2014-12-08,	19364,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00273RNM-3,	2015-01-27,	23164,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01236RLW-7,	2015-02-02,	1582,	3.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00133RNM-3,	2015-02-09,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00219RNM-0,	2015-02-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00270ROG-8,	2015-03-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00177RND-9,	2015-03-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00100RNM-2,	2015-03-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01409,	2015-03-09,	9332,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00161RNM-8,	2014-10-22,	128,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00433RND-9,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00193RND-9,	2014-11-11,	187908,	5.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00212RNM-7,	2014-10-27,	26190,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00261RND-6,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00152RNG-2,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00310RNG-1,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00056RNG-9,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00307RBW-3,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00213RMN-4,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00490RNM-0,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01295RLW-5,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00847RMN-8,	2014-09-29,	95724,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00750,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01298RLW-2,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01249RLW-2,	2014-09-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00178RND-8,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00150RND-0,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00371RNG-7,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00935RYN-9,	2014-10-21,	1178,	3.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00455ROS-8,	2014-10-15,	82,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00269RLW-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01117RMN-9,	2014-10-14,	144208,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00190RND-2,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01464RYN-6,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00181RNM-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00203RNM-8,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00245RNM-8,	2014-10-28,	2112,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00134RNM-2,	2014-10-30,	320,	2.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00423RND-1,	2014-11-26,	16065,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00278RBW-8,	2014-10-21,	2288,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00336RBW-8,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00169RBW-0,	2014-10-21,	578,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00274RBW-2,	2014-10-21,	240,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00306RBW-4,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02170RBW-3,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00082RBW-4,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00231RND-3,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00180RBW-5,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00059RBW-3,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00384RBW-9,	2014-10-22,	42,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	10648RBW-0,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00322RBW-4,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00268RBW-0,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00388RBW-5,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00125RBW-3,	2014-10-16,	26476,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	08217RBW-5,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00304RBW-6,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00360RND-6,	2014-10-13,	110,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00159RBW-2,	2014-10-13,	50,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00218RBW-1,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00217RBW-2,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00143RBW-1,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00314RNG-7,	2014-10-28,	390,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00137RBW-9,	2014-10-28,	42,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00004RBW-9,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00367RBW-0,	2014-10-27,	170,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00379RBW-6,	2014-10-28,	56,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00238RBW-7,	2014-11-11,	44,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00275RBW-1,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00265RBW-3,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00212RBW-7,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00346RBW-6,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00220RBW-7,	2014-11-06,	170,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00044RBW-1,	2014-12-03,	10778,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00046RBW-9,	2014-12-03,	9028,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00045RBW-0,	2014-12-03,	2114,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00193RBW-0,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00164RBW-5,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00099RBW-5,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00025RBW-4,	2014-12-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00358RBW-1,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00308RBW-2,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00250RBW-0,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00393RBW-8,	2014-10-29,	133286,	5.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00353RBW-6,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00339RBW-5,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06315RBW-0,	2014-10-30,	3010,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00166RBW-3,	2014-10-30,	13218,	4.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00061RBW-9,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00195RBW-8,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00219RBW-0,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00283RBW-1,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02703RBW-9,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00335RND-8,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00141RBW-3,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00363RBW-4,	2014-11-04,	68960,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00369RBW-8,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00242RBW-1,	2014-11-03,	Collect New Sample,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00293RBW-9,	2014-11-13,	154,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	09942RBW-5,	2014-11-13,	2036,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00196RBW-7,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	21854RBW-6,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00098RBW-6,	2014-11-13,	84258,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00404RBW-5,	2014-11-13,	116762,	5.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	01397RLW-2,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00485RLW-7,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01429RLW-4,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00535RLW-7,	2014-09-23,	37620,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01008RLW-3,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00915RLW-7,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01215RLW-2,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00432RLW-1,	2014-09-25,	276,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01416RLW-9,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00484RLW-8,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00356RLW-3,	2014-09-25,	35784,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00689RLW-1,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01373RLW-0,	2014-09-25,	452648,	5.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00304RLW-6,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00884RLW-4,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00864RLW-8,	2014-09-30,	29288,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00134ROS-7,	2014-09-30,	38196,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00136RLW-0,	2014-09-30,	38578,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01260RLW-6,	2014-05-08,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00728RLW-4,	2014-05-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00942RLW-4,	2014-10-07,	15230,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00316RLW-2,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00687RLW-3,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01531RLW-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01532RLW-8,	2014-10-07,	74384,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00240RLW-3,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01233RLW-0,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01237RLW-6,	2014-10-02,	136858,	5.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	01355RLW-2,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00104RLW-8,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00056RLW-6,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00563RLW-2,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00918RLW-4,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01044RLW-9,	2014-10-21,	12382,	4.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00497RLW-3,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00996RLW-9,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00204RLW-7,	2014-10-14,	60,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00176RLW-1,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01535RLW-5,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00490RLW-0,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01305RLW-3,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00233RLW-2,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00593RLW-6,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01505RLW-1,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01451RLW-5,	2014-10-16,	92,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	01120RLW-6,	2014-10-16,	98732,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00982RLW-5,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00225RLW-2,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00661RLW-3,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00313RLW-5,	2014-10-16,	144,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00016RLW-5,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00976RLW-3,	2014-10-16,	64694,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00617RLW-8,	2014-10-30,	33342,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00819RLW-4,	2014-09-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00343RLW-9,	2014-09-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01374RLW-9,	2014-09-16,	52,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01174RLW-1,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00140RLW-4,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01177RLW-8,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00603RLW-4,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00614RLW-1,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00807RLW-8,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01422RLW-1,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01456RLW-0,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00449RLW-2,	2014-09-18,	28548,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00026RLW-3,	2014-09-18,	27094,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00301RLW-9,	2014-09-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01385RLW-6,	2014-09-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00821RLW-0,	2014-09-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00027RLW-2,	2014-09-18,	1848,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01454RLW-2,	2014-11-19,	360484,	5.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00695RLW-3,	2014-11-19,	10259,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00895RLW-1,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01450RLW-6,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01435RLW-6,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01517RLW-7,	2014-12-17,	2112,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01283RLW-9,	2014-11-12,	39216,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00330RLW-4,	2014-10-28,	6846,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	01105RLW-5,	2014-10-28,	75912,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00630RLW-1,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00610RLW-5,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00941RLW-5,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00458RLW-0,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01434RLW-7,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01375RLW-8,	2014-11-11,	1717556,	6.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00612RLW-3,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00659RLW-7,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00802RLW-3,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00159RLW-2,	2014-12-04,	5718,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00750RLW-5,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00410RLW-7,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00344RLW-8,	2014-12-04,	86,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00284RLW-0,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01442RLW-7,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01314RLW-2,	2015-01-19,	614,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00434RLW-9,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00115ROS-0,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00927RLW-3,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01304RLW-4,	2014-11-06,	8812,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00893RLW-3,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01427RLW-6,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01318RLW-8,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00528RLW-6,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00332RLW-2,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00228RLW-9,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01146RLW-6,	2014-11-17,	229276,	5.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01040RLW-3,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01307RLW-1,	2014-11-18,	30316,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00625RLW-8,	2014-11-18,	240,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00325RLW-1,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01336RLW-6,	2014-11-03,	140,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00795RLW-2,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00556RLW-1,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00474RLW-0,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00560RLW-5,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00716RLW-8,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00842RLW-5,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00903RLW-1,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00074RLW-4,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00002RLW-1,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00089RLW-7,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01082RLW-2,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00600RLW-7,	2014-11-24,	1593,	3.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00810RLW-3,	2014-11-25,	512,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01330RLW-2,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00388RLW-5,	2015-02-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01458RLW-8,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00280RLW-4,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01282RLW-0,	2014-11-12,	236838,	5.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00427RLW-8,	2014-11-13,	69156,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	01313RLW-3,	2014-11-13,	112,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	01321RLW-3,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00486RLW-6,	2015-03-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01137RLW-7,	2015-03-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00125RLW-3,	2015-03-04,	23197,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00623RMN-8,	2014-10-30,	30530,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00826RMN-3,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00155RMN-4,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00909RMN-3,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00346RMN-4,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00433RMN-8,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01055RMN-3,	2014-09-30,	1466,	3.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00664RMN-8,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00697RMN-9,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00589RMN-0,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00764RMN-7,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00348RMN-2,	2014-09-23,	575,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00476RYN-4,	2014-09-23,	5074,	3.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01014RMN-3,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00819RMN-2,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01074RMN-0,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00464RMN-0,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00613RMN-0,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00189RMN-4,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00599RMN-8,	2014-09-16,	15808,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00218RMN-9,	2014-09-16,	5282,	3.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00949RMN-5,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01129RMN-5,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00300RMN-8,	2014-09-16,	20766,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00811RMN-0,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00617RMN-6,	2014-05-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00212RMN-5,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01084RMN-8,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01121RMN-3,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00519RMN-5,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00895RMN-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00770RMN-9,	2014-10-21,	846068,	5.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00835RMN-2,	2014-10-21,	356,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00939RMN-7,	2014-10-21,	1694,	3.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	01183RMN-8,	2014-10-21,	2890,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00930RMN-6,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01029RMN-6,	2014-10-21,	454,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00172RMN-3,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01238RMN-3,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00882RMN-4,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01241RMN-8,	2014-11-20,	42,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00690RMN-6,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00718RMN-4,	2014-08-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00851RMN-1,	2014-08-26,	Collect New Sample,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00669RMN-3,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00965RMN-4,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00670RMN-0,	2014-11-05,	2608,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00856RMN-6,	2014-11-05,	16494,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00574RMN-7,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00323RMN-1,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00653RMN-1,	2014-11-06,	198,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00711RMN-1,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00712RMN-0,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00647RMN-0,	2014-10-30,	4552,	3.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00661RMN-1,	2014-10-30,	26546,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00656RMN-8,	2014-10-30,	75874,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00654RMN-0,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00705RMN-9,	2014-12-04,	161166,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00190RMN-1,	2015-01-28,	72,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00588RMN-1,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00650RMN-4,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00896RMN-8,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01209RMN-8,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00870RMN-8,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01111RMN-5,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00034RMN-1,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00279RMN-5,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00410RMN-5,	2014-11-11,	402,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01023RMN-2,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00726RMN-4,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00514RMN-0,	2014-11-04,	310,	2.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00284RMN-8,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	000547RM-3,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00604RMN-1,	2015-02-09,	288376,	5.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00114RMN-4,	2014-10-28,	27444,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00135RMN-9,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00842RMN-3,	2014-10-28,	406,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01105RMN-3,	2014-10-28,	72,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	01217RMN-8,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00742RMN-4,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01200RMN-7,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00771RMN-8,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01030RMN-3,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00187RNG-1,	2014-09-23,	42,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00358RNG-4,	2014-09-23,	810,	2.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00122RNG-9,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00205RNG-9,	2014-09-23,	45250,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00532RNG-3,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00340RNG-5,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00162RNG-0,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00261RNG-0,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00319RNG-2,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00104RNG-1,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00313RNG-8,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00136RNG-3,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00328RNM-8,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00276RNG-3,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00217RNG-5,	2014-10-02,	390,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00132RNG-7,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00218RNG-4,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00379RNG-9,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00299RNG-6,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00383RND-9,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00331RNG-6,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00362RNG-8,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00214RNG-8,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00191RNG-5,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00373RNG-5,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00385RNG-1,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00469RNG-0,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00145RNM-9,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00446RNG-8,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00345RNG-0,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00467RNG-2,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00316RNG-5,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00316RNG-5,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00332RNM-2,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00291RNG-4,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00059RNG-6,	2014-10-28,	80,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00112RNG-1,	2014-10-28,	12494,	4.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00239RNG-9,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00173RNG-7,	2014-10-28,	7964,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00118RNG-5,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00247RNG-9,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00101RNG-4,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00099RNG-8,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00157RNG-7,	2014-10-28,	6600,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00050ROG-4,	2014-10-14,	50058,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00186RNG-2,	2014-10-30,	98986,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00287RNG-0,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00103RNG-2,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00034RNG-6,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00360RNG-0,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00114RNG-9,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00320RNG-9,	2014-10-29,	804,	2.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00325RNG-4,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00314RBW-4,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00374RNG-4,	2014-10-29,	25636,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00386RNG-0,	2014-10-29,	6906,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00016RNG-8,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00350RNG-2,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00194RNG-2,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00422RNG-6,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00413RNG-7,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00372RNG-6,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00289RNG-8,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00090RNG-7,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00213RNG-9,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00363RNG-7,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00296RNG-9,	2014-11-18,	48,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00257RNG-6,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00401RNG-1,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00285RNG-2,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00255RNG-8,	2014-11-04,	188,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00053RNG-2,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00298RNG-7,	2014-11-03,	60,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00329RNG-0,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00341RNG-4,	2014-11-03,	584442,	5.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00098RNG-9,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00303RNG-0,	2014-11-12,	25034,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00295RND-6,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00253RND-6,	2014-11-26,	77,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00368RNG-2,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00103RNG-2,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00318RNG-3,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00119RNG-4,	2014-11-24,	30247,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00433RNG-3,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00269RNG-2,	2014-11-24,	50317,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00268RNG-3,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00151RNG-3,	2014-11-24,	6008,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00152RND-8,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00216RNG-6,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00256RNG-7,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00115RNG-8,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00220RND-6,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00351RND-7,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00195RND-7,	2014-09-30,	37014,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00466RND-9,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00111RND-8,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00191RNM-2,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00144RND-9,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00335RBW-9,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00146RNM-8,	2014-09-30,	1192,	3.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00151RND-9,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00401RND-7,	2014-09-30,	132,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00239RND-5,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00354RNM-5,	2014-10-07,	30640,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00367RND-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00417RND-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00255RND-4,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00130RND-5,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00359RND-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00448RND-2,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00493RND-6,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00399RND-1,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00386RND-6,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00013RND-7,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00215RND-3,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00353RND-5,	2014-10-07,	148,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00383RNG-3,	2014-10-21,	2884,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00295RND-6,	2014-10-21,	1074,	3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00357RND-1,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00378RND-6,	2014-10-21,	1574,	3.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00226RND-0,	2014-10-21,	188,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00085RND-0,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00394RND-6,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00167RND-1,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00263RND-4,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00185RND-9,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00235RND-9,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00281RND-2,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00082RND-3,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00516RND-9,	2014-10-14,	17054,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00055RND-6,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00245RND-7,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00015RND-5,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00254RND-5,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00319RND-8,	2014-10-14,	23816,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00431RND-1,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00280RND-3,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00187RND-7,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00290RND-1,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00209RND-1,	2014-10-14,	159666,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00208RND-2,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00443RND-7,	2014-10-14,	588,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00109RND-2,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00434RND-8,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00407RNM-2,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00352RND-6,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00445RND-5,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00131RND-4,	2014-10-28,	71624,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00414RND-2,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00481RND-0,	2014-11-19,	342718,	5.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00048RND-6,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00001RND-1,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00134RND-1,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00328RND-7,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00390RND-0,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00272RND-3,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00442RND-8,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00441RND-9,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00349RND-2,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00333RND-0,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00537RND-4,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00023RND-5,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00172RND-4,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00217RND-1,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00380RND-2,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00194RND-8,	2014-12-02,	16671,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00391RND-9,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00254RND-5,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00408RND-0,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00207RND-3,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00287RND-6,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00029RND-9,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00119RND-0,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00150RNM-1,	2014-10-29,	3362,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00347RND-4,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00341RND-0,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00295RNG-0,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00485RND-6,	2014-11-03,	5008,	3.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00486RND-5,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00487RND-4,	2014-10-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00180RND-4,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00138RND-7,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00372RND-2,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00447RND-3,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00382RND-0,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00160RND-8,	2014-12-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00339RND-4,	2014-12-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00426RND-8,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00421RND-3,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00053RND-8,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00278RND-7,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00253RNG-0,	2014-11-06,	62,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00088RND-7,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00243RND-9,	2014-11-06,	66,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00460RND-5,	2014-11-13,	454,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00238RND-6,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00360RBW-7,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00173RND-3,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00228RND-8,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00358RND-0,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00123RND-4,	2014-11-27,	99409,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00236RND-8,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00355RND-3,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00326RND-9,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00342RND-9,	2014-11-12,	Collect New Sample,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00289RND-4,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00182RND-2,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00400RND-8,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00047RND-7,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00096RND-7,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00265RND-2,	2014-11-13,	64,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00395RNM-6,	2014-11-13,	48,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00231RBW-4,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00334RND-9,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00356RND-2,	2015-02-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00386RNM-7,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00490RNM-0,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00290RNM-2,	2014-10-29,	78,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00230RNM-5,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00990RNM-5,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00395RND-5,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00324RNM-2,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00028RNM-1,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00330RNM-4,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00101RNM-1,	2014-09-25,	171246,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00202RNM-9,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00112RNM-8,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00453RNM-5,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00413RNM-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00121RNM-7,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00390RNM-1,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00328RNG-1,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00504RNM-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00354RND-4,	2014-10-06,	64,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00144RNM-0,	2014-10-06,	84166,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00229RNM-8,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00487RNM-5,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00603RNM-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00156RNM-5,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00444RNM-7,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00239RNM-6,	2014-10-06,	822,	2.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00143RNM-1,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00544RNM-6,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00382RNM-1,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00254RNM-6,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00546RNM-4,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00506RNM-2,	2014-10-23,	2964,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00269RNM-9,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00257RNM-3,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00032RNM-5,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00509RNM-9,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00057RNM-5,	2014-10-16,	68,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00308RNM-2,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00300RNM-0,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00271RNM-5,	2014-10-29,	60,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00452RNM-6,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00297RNM-5,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00539RNM-3,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00147RNM-7,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00574RNM-9,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00347RNM-5,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00234RNM-1,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00313RNM-5,	2014-11-19,	510823,	5.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00050RNM-2,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00442RNM-9,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00312RNM-6,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00455RNM-3,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00179RNM-8,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00287RNM-7,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00247RNM-6,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00228RNM-9,	2014-12-01,	47,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00007RNM-6,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00521RNM-3,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00154RNM-7,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00541RNM-9,	2014-12-02,	45392,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00405RNM-4,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00407RND-1,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00473RNM-1,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00593RNM-6,	2014-12-17,	199730,	5.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00301RNM-9,	2014-12-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00222RNM-5,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00225RNM-2,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00337RNM-7,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00148RNM-6,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00286RNM-8,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00303RNM-7,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00307RNM-3,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00306RNM-4,	2014-10-27,	78,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00571RNM-2,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00284RNM-0,	2014-10-27,	136,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00214RNM-5,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00409RNM-0,	2014-10-27,	154,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00010RNM-1,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00369RNM-8,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00641RNM-8,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00130RNM-6,	2014-10-28,	70,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00364RNM-3,	2014-10-28,	116,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00540RNM-0,	2014-10-28,	134,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00146RND-7,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00362RNM-5,	2014-10-28,	100718,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00009RNM-4,	2014-09-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00329RNM-7,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00420RNM-5,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00352RNM-7,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00320RNM-6,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00191RND-1,	2014-11-10,	18772,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00326RNM-0,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00526RNM-8,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00068RNM-2,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00145RNG-2,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00293RNM-9,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00120RNM-8,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00388RNM-5,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00159RNM-2,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00309RNM-1,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00003RNM-0,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00187RNM-8,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00170RNM-7,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00474RNM-0,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00626RNM-7,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00042RNM-3,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00382RNM-1,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00492RNM-8,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00457RNM-1,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00310RNM-8,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00127RNM-1,	2014-12-03,	674,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00573RNM-0,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00518RNM-8,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00332RNG-5,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00140RNM-4,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00194RNM-9,	2014-12-04,	12866,	4.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00249RNM-4,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00012RNM-9,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00248RNM-5,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00370RNM-5,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00399RNM-2,	2014-11-04,	4490,	3.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00060RNM-0,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00389RNM-4,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00022RNM-7,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00199RNM-4,	2014-11-12,	348,	2.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00203RND-7,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00443RNM-8,	2014-11-17,	204,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00051RNM-1,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00160RNM-9,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00584RNM-7,	2014-11-17,	2006,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00548RNM-2,	2014-11-18,	280,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00647RNM-2,	2014-11-18,	66,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00217RNM-2,	2014-11-18,	374,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00296RNM-6,	2014-11-18,	6112,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00453RNM-5,	2014-11-18,	488,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00527RNM-7,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07024RNM-0,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01371RNM-2,	2014-11-11,	23282,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00588RNM-3,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00232RNM-3,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00475RNM-9,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00297RNM-5,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00378RNM-7,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00201RNM-0,	2014-11-25,	99409,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00218RNM-1,	2014-11-25,	3514,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00555RNM-2,	2014-11-25,	61003,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00440RNM-1,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00513RNM-3,	2015-02-10,	162,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00479ROG-7,	2014-08-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00054ROG-0,	2014-08-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00737ROG-5,	2014-08-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00093ROG-3,	2014-08-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00867ROG-7,	2014-09-22,	388,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00762ROG-3,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00015ROG-8,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01158ROG-3,	2014-09-15,	415438,	5.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01147ROG-7,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00967ROG-6,	2014-09-15,	24058,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	07755ROG-7,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01074ROG-4,	2014-09-29,	58896,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00980ROG-9,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00551ROG-8,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00327ROS-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00190ROG-5,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00761ROG-4,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00050RNG-5,	2014-10-21,	1790,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00026ROG-5,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00969ROG-4,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00006ROG-9,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01136ROG-0,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00558ROG-1,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00010ROG-3,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00033ROG-6,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00955ROG-0,	2014-08-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00030ROG-9,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01333ROG-1,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01182ROG-3,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00857ROG-9,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00051ROG-3,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00064ROG-8,	2014-11-03,	311810,	5.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00036ROG-3,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00859ROG-7,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00860ROG-4,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00811ROS-7,	2014-09-17,	47,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00673ROS-4,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00341ROS-6,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00160ROS-4,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00927ROS-8,	2014-09-15,	32,	1.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00674ROS-3,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00928ROS-7,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00723ROS-4,	2014-09-24,	576,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00675ROS-2,	2014-09-24,	36428,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00656ROS-5,	2014-09-24,	36628,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00798ROS-4,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00819ROS-9,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00167ROS-7,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00911ROS-6,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00888ROS-5,	2014-10-01,	90,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00281ROS-8,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00466ROS-5,	2014-10-01,	152,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00504ROS-9,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00839ROS-5,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00168ROS-6,	2014-10-22,	26385,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00601ROS-1,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00345ROS-2,	2014-10-22,	54,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00038ROS-4,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00863ROS-4,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00990ROS-0,	2014-10-15,	13134,	4.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00691ROS-2,	2014-10-15,	154,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00132ROS-9,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00945ROS-6,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00041ROS-9,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00886ROS-7,	2014-11-19,	8565,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00895ROS-6,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00455ROS-8,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00347ROS-0,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00769ROS-9,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00261ROS-2,	2014-11-20,	4542,	3.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00711ROS-8,	2015-01-15,	1604,	3.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00330ROS-9,	2014-10-08,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00568ROS-2,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00883ROS-0,	2014-10-28,	125834,	5.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00389ROS-9,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00134RLW-2,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00418ROS-4,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00822ROS-4,	2014-12-03,	106,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00791ROS-1,	2014-12-03,	3774,	3.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00463ROS-8,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00023ROS-1,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00941ROS-0,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00991ROS-9,	2015-01-22,	728346,	5.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00949ROS-2,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00587ROS-9,	2014-11-12,	4392,	3.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00950ROS-8,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00380ROS-8,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00934ROS-9,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00592ROS-2,	2014-11-26,	465,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00321ROS-0,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00849ROS-3,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00891ROS-0,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00392ROS-4,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00850ROS-9,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00115RLW-5,	2014-11-27,	43,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00892ROS-9,	2014-11-27,	417,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00425ROS-5,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00254ROS-1,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00419ROS-3,	2014-11-25,	2424,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00436ROS-2,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00614ROS-6,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00327ROG-1,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01087,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00713,	2014-09-29,	124,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00805,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00752,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00682,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00679,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01449,	2014-09-29,	48,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00499,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01428,	2014-09-29,	102,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00962,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00950,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01143,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00936,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00843,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00694,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00673,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01347,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01307,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00720,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00816,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00183,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00536,	2014-10-06,	606,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	01286,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00482,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00835,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00279,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00108,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00533,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01149,	2014-10-22,	102641,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	01410,	2014-10-23,	21581,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00467,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01206,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00468,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01017,	2014-10-13,	3375,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	01440,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01106,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00675,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01211,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01391,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01129,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01219,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01342,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01420,	2014-11-10,	41,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01378,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00716,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01491,	2014-12-01,	56,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00533,	2014-12-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00213,	2015-01-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00849,	2015-01-14,	44746,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00607,	2015-01-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01528,	2015-01-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00823,	2015-01-14,	141,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00822,	2015-01-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00912,	2015-01-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01050,	2015-01-19,	194,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01233,	2015-01-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01428,	2014-11-10,	50,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01298,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01503,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01007,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01427,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00921,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01367,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00776,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01557,	2014-12-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00819,	2014-12-15,	58394,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00721,	2015-01-22,	2818,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00043,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00702,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01163,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01473,	2014-11-13,	58,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00398,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00977,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00981,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00710,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01072,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01044,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00973,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00691,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01011,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00713,	2014-11-27,	8021,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	01495,	2015-02-02,	43468,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00053,	2015-02-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00570,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01081,	2014-10-27,	82,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00760,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00650,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01429,	2014-10-27,	256,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01090,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00771,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00836,	2014-10-27,	1016,	3,	Invalid Patient Record. Corresponding VL request not found.
+null,	02808,	2014-10-27,	144,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00850,	2014-10-28,	145046,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	01452,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01372,	2014-10-28,	66734,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	01272,	2014-10-27,	86820,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	01791,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01482,	2014-11-25,	46,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00100,	2015-02-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01470,	2015-02-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01346,	2015-02-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01474,	2015-02-11,	20790,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01110,	2015-03-05,	23429,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00991,	2015-03-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00700,	2015-03-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00904,	2015-03-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01140,	2015-03-09,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01657,	2015-03-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00398,	2015-03-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00619RYN-2,	2014-09-18,	47382,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01501RYN-1,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00469RYN-3,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00632RYN-5,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01484RYN-2,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01620RYN-7,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01220RYN-1,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00547RYN-9,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01217RYN-6,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00798RYN-5,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01326RYN-4,	2014-10-22,	9140,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01322RYN-8,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01124RYN-8,	2014-10-16,	151378,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00846RYN-7,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01349RYN-7,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00389RYN-0,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00430RYN-9,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00221RYN-2,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00516RYN-6,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01189RYN-0,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00784RYN-1,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00829RYN-8,	2014-10-29,	2604,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00941RYN-1,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00128RYN-6,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00325RYN-7,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00716RYN-4,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00437RYN-2,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00615RYN-6,	2014-12-01,	23442,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00155RYN-2,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00869RYN-9,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00713RYN-7,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01032RYN-9,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00906RYN-4,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00991RYN-0,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00915RYN-3,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01485RYN-1,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00799RYN-4,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00825RYN-2,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00800RYN-1,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01341RYN-5,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01542RYN-2,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01597RYN-6,	2014-10-27,	692,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00941RYN-1,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01054RYN-2,	2014-10-27,	68,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	01551RYN-0,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01216RYN-7,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01079RYN-3,	2014-11-11,	892,	3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00763RYN-6,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00785RYN-0,	2014-11-06,	35872,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01498RYN-6,	2014-11-05,	82,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	00581RYN-6,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00834RYN-1,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00754RYN-7,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01087RYN-3,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01404RYN-9,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00515RYN-7,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01007RYN-0,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01049RYN-0,	2015-01-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01279RYN-1,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00598RYN-7,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01017RYN-8,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00476RMN-6,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01066RYN-8,	2015-02-09,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00900RYN-0,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01425RYN-4,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00883RYN-1,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00326RYN-6,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00848RYN-5,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00902RYN-8,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01006RYN-1,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01342RYN-4,	2014-10-28,	62,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	01605RYN-6,	2014-10-28,	46,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00986RYN-7,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01240RYN-7,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00138RYN-4,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00165RYN-0,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00425RYN-6,	2014-11-17,	46154,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01091RYN-7,	2014-11-17,	214,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01295RYN-1,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00651RYN-1,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00879RYN-7,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01168RYN-5,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00165RYN-0,	2015-02-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00004RYN-5,	2015-02-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00919RYN-9,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01341RYN-5,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00600RYN-3,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01408RYN-5,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01274RYN-6,	2014-11-25,	2839,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	01444RYN-1,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00823RYN-4,	2014-11-24,	118,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00183RYN-8,	2014-11-24,	1018,	3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00932RYN-2,	2014-11-24,	1046,	3,	Invalid Patient Record. Corresponding VL request not found.
+null,	00962RYN-5,	2015-02-25,	136030,	5.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	07382RDH-7,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09022RDH-9,	2014-09-22,	2280,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	08632RDH-3,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00304RDH-7,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10076RDH-2,	2014-10-22,	298991,	5.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	06424RDH-9,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06425RDH-8,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06369RDH-6,	2014-09-22,	66,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	07707RDH-5,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00043RDH-3,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07291RDH-7,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01095RDH-8,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06932RDH-4,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09906RDH-0,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07207RDH-0,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08700RDH-0,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05273RDH-3,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04897RDH-2,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03328RDH-3,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04673RDH-2,	2014-09-23,	2428,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	04514RDH-5,	2014-09-23,	5791,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	07790RDH-3,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08694RDH-8,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05957RDH-6,	2014-09-23,	192903,	5.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01304RDH-5,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01571RDH-1,	2014-09-23,	84892,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	05376RDH-9,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08376RDH-3,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06739RDH-9,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07890RDH-2,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00096RDH-9,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01572RDH-0,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06831RDH-6,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09746RDH-4,	2014-09-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00070RDH-9,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05338RDH-6,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05137RDH-9,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09263RDH-7,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10131RDH-5,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10132RDH-4,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05454RDH-4,	2014-09-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05180RDH-5,	2014-09-25,	1346,	3.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	09286RDH-0,	2014-09-24,	62,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	06060RDH-8,	2014-09-24,	66,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	06508RDH-8,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06822RDH-7,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06024RDH-3,	2014-10-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06397RDH-2,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07412RDH-1,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04198RDH-8,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05548RDH-2,	2014-09-24,	3126,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	05623RDH-0,	2014-08-24,	676,	2.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	09859RDH-7,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09703RDH-5,	2014-09-24,	100,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	08954RDH-3,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02815RDH-5,	2014-09-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08302RDH-2,	2014-10-07,	82,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	07903RDH-7,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02990RDH-2,	2014-10-07,	2230,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	02420RDH-2,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05171RDH-6,	2014-10-07,	168,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	10268RDH-0,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01241RDH-1,	2014-10-07,	130,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	07758RDH-3,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08307RDH-7,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07471RDH-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08630RDH-5,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08009RDH-8,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05792RDH-5,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09003RDH-2,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07426RDH-5,	2014-10-07,	100,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	09901RDH-5,	2014-10-07,	59888,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	10558RDH-9,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05105RDH-7,	2014-10-07,	7292,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	09363RDH-6,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00543RDH-8,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04057RDH-8,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00042RDH-4,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01158RDH-2,	2014-10-07,	152012,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	04688RDH-5,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05631RDH-0,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00578RDH-6,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07618RDH-3,	2014-10-06,	24294,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	04557RDH-3,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08815RDH-2,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03907RDH-2,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10223RDH-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04347RDH-8,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09461RDH-7,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00569RDH-7,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09053RDH-1,	2014-10-06,	253674,	5.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	03256RDH-9,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09214RDH-7,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08640RDH-3,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08699RDH-3,	2014-10-06,	42,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01867RDH-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00959RDH-5,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09050RDH-4,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04243RDH-3,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04363RDH-7,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06502RDH-4,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04687RDH-6,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04723RDH-2,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00814RDH-0,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10789RDH-0,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07638RDH-9,	2014-10-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04294RDH-1,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05357RDH-2,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03023RDH-1,	2014-10-07,	116,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	04583RDH-1,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01039RDH-7,	2014-09-30,	40,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	01153RDH-7,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07360RDH-3,	2014-09-30,	1584,	3.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	09340RDH-4,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10803RDH-2,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04934RDH-7,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02234RDH-8,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08391RDH-4,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09844RDH-5,	2014-09-29,	89902,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	04909RDH-8,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03890RDH-1,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01718RDH-5,	2014-09-29,	8540,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	01249RDH-3,	2014-09-29,	54,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01274RDH-1,	2014-09-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04609RDH-1,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07118RDH-8,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09845RDH-4,	2014-09-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09963RDH-0,	2014-09-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03106RDH-1,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00721RDH-2,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00251RDH-0,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08285RDH-3,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05456RDH-2,	2014-09-16,	940,	3,	Invalid Patient Record. Corresponding VL request not found.
+null,	06412RDH-3,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00499RDH-2,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07493RDH-3,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09928RDH-4,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02620RDH-0,	2014-09-16,	90,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	04791RDH-9,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06525RDH-7,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10169RDH-0,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07037RDH-6,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00625RDH-9,	2014-09-16,	164852,	5.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	00287RDH-8,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03051RDH-6,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09599RDH-2,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04949RDH-0,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06047RDH-6,	2014-09-17,	461,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	09897RDH-1,	2014-09-17,	94,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	06091RDH-1,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07583RDH-4,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08147RDH-1,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10804RDH-1,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05106RDH-6,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07850RDH-0,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05413RDH-4,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05495RDH-5,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03441RDH-5,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08468RDH-2,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07708RDH-4,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08999RDH-0,	2014-10-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08976RDH-7,	2014-10-02,	36462,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	09450RDH-0,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04434RDH-2,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07286RDH-4,	2014-10-13,	16214,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	01708RDH-7,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00784RDH-6,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06793RDH-2,	2014-10-13,	14709,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	07287RDH-3,	2014-10-13,	27701,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	03947RDH-4,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03187RDH-3,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08823RDH-2,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02109RDH-0,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05394RDH-7,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02877RDH-0,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06255RDH-3,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05043RDH-2,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03589RDH-7,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01389RDH-3,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10005RDH-8,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05151RDH-0,	2014-10-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09204RDH-9,	2014-10-14,	1152709,	6.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	04556RDH-4,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00996RDH-0,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02134RDH-9,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01021RDH-7,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08221RDH-0,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00779RDH-3,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04041RDH-7,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05842RDH-5,	2014-10-14,	23280,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	09847RDH-2,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09735RDH-7,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08015RDH-0,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08737RDH-7,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09643RDH-8,	2014-10-14,	464,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	07443RDH-4,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07882RDH-2,	2014-10-14,	7975,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	03818RDH-0,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04783RDH-9,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09530RDH-4,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07659RDH-3,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05128RDH-0,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01965RDH-5,	2014-10-14,	208,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	06264RDH-2,	2014-10-14,	19160,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	09441RDH-2,	2014-10-14,	56,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	07299RDH-9,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08371RDH-8,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08856RDH-2,	2014-10-14,	65,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	06046RDH-7,	2014-10-14,	81,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	08808RDH-1,	2014-10-14,	578958,	5.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	05367RDH-0,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03810RDH-8,	2014-10-14,	268,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	07076RDH-8,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10220RDH-7,	2014-10-14,	130,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	08852RDH-6,	2014-10-14,	40,	1.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	07491RDH-5,	2014-10-14,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03760RDH-8,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08153RDH-2,	2014-10-21,	32128,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	07786RDH-9,	2014-10-21,	58,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	08301RDH-3,	2014-10-21,	11572,	4.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	09752RDH-5,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05033RDH-4,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08538RDH-8,	2014-10-21,	35810,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	09750RDH-7,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07955RDH-4,	2014-10-21,	48,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00059RDH-4,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02016RDH-2,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10396RDH-5,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05248RDH-5,	2014-10-21,	46,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	06762RDH-9,	2014-10-21,	311324,	5.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	05597RDH-2,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09383RDH-2,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01779RDH-1,	2014-10-21,	302,	2.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	09010RDH-3,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05457RDH-1,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02055RDH-4,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03965RDH-1,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07617RDH-4,	2014-10-23,	350,	2.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	04391RDH-3,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06651RDH-3,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05347RDH-5,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09610RDH-7,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05481RDH-1,	2014-10-23,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04211RDH-1,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01540RDH-9,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08665RDH-3,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09768RDH-7,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10561RDH-4,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08641RDH-2,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08153RDH-2,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09798RDH-1,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07258RDH-8,	2014-10-15,	438,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	07719RDH-1,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00682RDH-9,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09691RDH-9,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02775RDH-3,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01256RDH-3,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08599RDH-4,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04332RDH-5,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04960RDH-4,	2014-10-15,	2670,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	08818RDH-9,	2014-10-15,	106,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	06799RDH-6,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10098RDH-6,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09529RDH-7,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02997RDH-5,	2014-10-15,	6396,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	09046RDH-1,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09580RDH-3,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10088RDH-8,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07753RDH-8,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05392RDH-9,	2014-10-15,	8932,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	09708RDH-0,	2014-10-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05921RDH-9,	2014-10-16,	30732,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	08523RDH-5,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06885RDH-1,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09867RDH-7,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08904RDH-4,	2014-10-16,	90,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	09796RDH-3,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08280RDH-8,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04109RDH-6,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06152RDH-7,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10475RDH-9,	2014-10-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07041RDH-0,	2014-09-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03071RDH-2,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08798RDH-3,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03743RDH-0,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05511RDH-5,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01215RDH-3,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03436RDH-2,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08604RDH-7,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07702RDH-0,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02986RDH-8,	2014-09-17,	467,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	09506RDH-4,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06153RDH-6,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07304RDH-2,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02250RDH-7,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09791RDH-8,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00442RDH-0,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06540RDH-8,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10428RDH-7,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05766RDH-7,	2014-11-19,	59726,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	01457RDH-0,	2014-11-19,	2096,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01558RDH-8,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08360RDH-1,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00012RDH-0,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05768RDH-5,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10151RDH-0,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03744RDH-9,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05767RDH-6,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05927RDH-3,	2014-11-19,	17759,	4.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	08286RDH-2,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08587RDH-8,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02317RDH-8,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07141RDH-9,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05853RDH-1,	2014-11-20,	752,	2.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	06353RDH-4,	2014-11-20,	5554,	3.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	04780RDH-2,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03870RDH-5,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04755RDH-3,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06272RDH-2,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01498RDH-1,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09417RDH-2,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07346RDH-2,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07531RDH-7,	2014-11-20,	422,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00769RDH-5,	2014-10-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08847RDH-4,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08928RDH-6,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05461RDH-5,	2014-11-20,	11188,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	09527RDH-9,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06998RDH-5,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05773RDH-8,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09625RDH-0,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03536RDH-1,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08367RDH-4,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06813RDH-8,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07651RDH-1,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07564RDH-7,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00486RDH-7,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06895RDH-9,	2014-11-20,	56,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00116RDH-5,	2014-11-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00897RDH-0,	2014-11-19,	365726,	5.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00064RDH-7,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01050RDH-1,	2014-12-01,	1325,	3.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	07930RDH-4,	2014-12-01,	52899,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	08837RDH-6,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06864RDH-6,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08646RDH-7,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08647RDH-6,	2014-12-01,	19428,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	06843RDH-2,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03481RDH-6,	2014-12-02,	7811,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	08831RDH-2,	2014-12-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	25511RDH-3,	2014-12-09,	47,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	10544RDH-6,	2014-11-26,	189762,	5.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	05586RDH-5,	2014-09-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00461RDH-6,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02782RDH-4,	2014-10-09,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07230RDH-1,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01173RDH-3,	2015-01-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00519RDH-8,	2015-01-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00519RDH-8,	2015-01-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01004RDH-8,	2015-01-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00918RDH-5,	2015-01-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00967RDH-5,	2015-01-20,	390,	2.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00840RDH-8,	2015-01-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00661RDH-4,	2015-01-20,	22958,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01075RDH-2,	2015-01-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09830RDH-1,	2014-11-10,	34636,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	08687RDH-7,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07285RDH-5,	2014-11-10,	380038,	5.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	07605RDH-8,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03698RDH-5,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07590RDH-5,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08079RDH-3,	2014-11-10,	830,	2.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	01468RDH-7,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10371RDH-4,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10372RDH-3,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09372RDH-5,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02643RDH-3,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05801RDH-4,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09870RDH-2,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10632RDH-9,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10211RDH-8,	2014-11-11,	168,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	01362RDH-4,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09649RDH-2,	2014-11-11,	1298,	3.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	10384RDH-9,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02851RDH-0,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05122RDH-6,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08243RDH-4,	2014-11-11,	11110,	4,	Invalid Patient Record. Corresponding VL request not found.
+null,	07718RDH-2,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07731RDH-5,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00190RDH-4,	2014-11-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03920RDH-5,	2014-11-05,	1050,	3,	Invalid Patient Record. Corresponding VL request not found.
+null,	10038RDH-9,	2014-11-05,	62708,	4.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	10279RDH-7,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06570RDH-1,	2014-11-06,	77088,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	10183RDH-2,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10249RDH-4,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01573RDH-9,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07796RDH-7,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05844RDH-3,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05849RDH-8,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08428RDH-1,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00379RDH-7,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08835RDH-8,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10246RDH-7,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09202RDH-1,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02538RDH-1,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07973RDH-2,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01950RDH-2,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09300RDH-2,	2014-11-04,	144,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	03819RDH-9,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08073RDH-9,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03414RDH-8,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10640RDH-9,	2014-12-03,	3800,	3.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	07959RDH-0,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09237RDH-0,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06809RDH-4,	2014-12-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07552RDH-1,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05604RDH-3,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04695RDH-6,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10671RDH-1,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07143RDH-7,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07958RDH-1,	2014-12-04,	80,	1.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	02911RDH-8,	2014-12-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04903RDH-4,	2014-12-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09745RDH-5,	2014-12-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07209RDH-8,	2014-12-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03520RDH-9,	2015-01-20,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06277RDH-7,	2015-01-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04974RDH-8,	2015-01-22,	266,	2.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	09862RDH-2,	2015-01-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02430RDH-0,	2015-01-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10230RDH-5,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05039RDH-8,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01887RDH-0,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09602RDH-7,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04989RDH-1,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07643RDH-2,	2014-11-06,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08396RDH-9,	2014-11-05,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06437RDH-4,	2014-11-06,	718,	2.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	04116RDH-7,	2014-11-03,	6856,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	05558RDH-9,	2014-11-03,	5974,	3.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	05516RDH-0,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08728RDH-8,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03845RDH-7,	2014-11-03,	34578,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	04585RDH-9,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05515RDH-1,	2014-11-03,	111152,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	09851RDH-5,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05088RDH-8,	2014-11-03,	2072,	3.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	08965RDH-0,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10389RDH-4,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06362RDH-3,	2014-11-03,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07199RDH-0,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10157RDH-4,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02816RDH-4,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09199RDH-6,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00811RDH-3,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10026RDH-3,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06623RDH-8,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04867RDH-8,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09528RDH-8,	2014-11-12,	277312,	5.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01053RDH-8,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06948RDH-6,	2014-11-12,	28308,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	10100RDH-2,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07189RDH-2,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06336RDH-6,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02641RDH-5,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08395RDH-0,	2014-11-12,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10848RDH-9,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07942RDH-0,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03554RDH-8,	2014-11-13,	120,	2.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	06745RDH-1,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08332RDH-6,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07529RDH-1,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07785RDH-0,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10383RDH-0,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06196RDH-5,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06487RDH-3,	2014-11-13,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07593RDH-2,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08899RDH-1,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01556RDH-0,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10535RDH-7,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07293RDH-5,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10260RDH-8,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09911RDH-3,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08315RDH-7,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08888RDH-4,	2014-11-18,	106,	2,	Invalid Patient Record. Corresponding VL request not found.
+null,	04212RDH-0,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05514RDH-2,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10417RDH-0,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03380RDH-8,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07062RDH-4,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09381RDH-4,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02651RDH-2,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06141RDH-1,	2014-11-18,	178,	2.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	05358RDH-1,	2014-11-18,	127488,	5.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	05086RDH-0,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08382RDH-5,	2014-11-18,	186064,	5.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	03741RDH-2,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07660RDH-0,	2014-11-18,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10462RDH-4,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07442RDH-5,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10884RDH-4,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00783RDH-7,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08747RDH-5,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07885RDH-9,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09287RDH-9,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02645RDH-1,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10047RDH-8,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03063RDH-2,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06433RDH-8,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00966RDH-6,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06432RDH-9,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10257RDH-3,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03672RDH-5,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06035RDH-0,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09353RDH-8,	2014-11-25,	4202,	3.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	06616RDH-7,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01153RDH-7,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07562RDH-9,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07381RDH-8,	2014-11-25,	73451,	4.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	10536RDH-6,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05763RDH-0,	2014-10-02,	Collect New Sample,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10238RDH-7,	2014-11-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10453RDH-5,	2015-02-09,	54,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00418RDH-0,	2015-02-02,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10020RDH-9,	2015-02-09,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07416RDH-7,	2015-02-11,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+RDH Rongo,	06932RDH-4,	2015-02-10,	< LDL copies/ml,	N/A,	Invalid Patient Record.
+null,	08268RDH-4,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10259RDH-1,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04291RDH-4,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08328RDH-2,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03911RDH-6,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07220RDH-3,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04658RDH-1,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00437RDH-7,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00153RDH-9,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09447RDH-6,	2014-10-27,	56,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	10247RDH-6,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10258RDH-2,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09754RDH-3,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09013RDH-0,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09736RDH-6,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09730RDH-2,	2014-10-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06478RDH-4,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10078RDH-0,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10181RDH-4,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00418RDH-0,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02955RDH-5,	2014-11-17,	3310,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	02694RDH-1,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05369RDH-8,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04192RDH-4,	2014-11-17,	7420,	3.9,	Invalid Patient Record. Corresponding VL request not found.
+null,	02692RDH-3,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01509RDH-8,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02983RDH-1,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01210RDH-8,	2014-11-17,	1007634,	6,	Invalid Patient Record. Corresponding VL request not found.
+null,	03761RDH-7,	2014-11-17,	46126,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	09785RDH-6,	2014-11-17,	168,	2.2,	Invalid Patient Record. Corresponding VL request not found.
+null,	05198RDH-5,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02940RDH-3,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03755RDH-5,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04604RDH-6,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	10113RDH-7,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04517RDH-2,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	02830RDH-6,	2014-11-27,	34470,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	01928RDH-1,	2014-11-27,	105032,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	07289RDH-1,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04746RDH-5,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06636RDH-3,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06332RDH-0,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00020RDH-0,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	07349RDH-9,	2014-11-26,	2632,	3.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00116RDH-5,	2015-02-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00150RDH-2,	1970-01-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03939RDH-4,	2015-01-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03676RDH-1,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	05625RDH-8,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	04505RDH-6,	2014-11-17,	54020,	4.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	10222RDH-5,	2014-11-17,	542,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	06577RDH-4,	2015-03-03,	37116,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	08596RDH-7,	2015-03-02,	1365,	3.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00018RSB-2,	2014-10-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01103RSB-6,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00775RSB-5,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01143RSB-8,	2014-10-27,	41240,	4.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00932RSB-5,	2014-11-19,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01140RSB-1,	2014-11-10,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01047RSB-5,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01079RSB-6,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00650RSB-5,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	08648RSB-3,	2014-10-29,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01026RSB-0,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00792RSB-4,	2014-11-17,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	03520RSB-7,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00976RSB-2,	2014-11-25,	19747,	4.3,	Invalid Patient Record. Corresponding VL request not found.
+null,	01158RSB-0,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	09205RSB-6,	2014-11-25,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00066RND-3,	1970-01-01,	13878,	4.1,	Invalid Patient Record. Corresponding VL request not found.
+null,	00161RNG-1,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00451RNM-7,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00202RBW-9,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00081RND-4,	2014-11-24,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00098RKT-3,	2014-09-22,	439050,	5.6,	Invalid Patient Record. Corresponding VL request not found.
+null,	00095RKT-6,	2014-12-10,	454,	2.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	01017RMN-0,	2014-11-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00124RNG-7,	2014-11-06,	66,	1.8,	Invalid Patient Record. Corresponding VL request not found.
+null,	00712RKT-9,	2014-09-23,	23100,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	00602RKT-2,	2014-09-23,	25726,	4.4,	Invalid Patient Record. Corresponding VL request not found.
+null,	01165RKT-9,	2014-09-16,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06263RKT-9,	2014-09-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00074RKT-1,	2014-10-07,	33692,	4.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	06169RKT-4,	2014-10-07,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01525RKT-4,	2014-10-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00070RKT-5,	2014-10-22,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00517RKT-6,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	06408RKT-5,	2014-10-28,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00121RKT-4,	2014-12-01,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00105RKT-4,	2014-12-03,	94724,	5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00062RKT-5,	2014-12-04,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00077RKT-8,	2014-10-29,	3218,	3.5,	Invalid Patient Record. Corresponding VL request not found.
+null,	00049RKT-3,	2014-10-30,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00092RKT-9,	2014-11-18,	56,	1.7,	Invalid Patient Record. Corresponding VL request not found.
+null,	00124RKT-1,	2014-11-27,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00168ROS-6,	2015-02-26,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01046ROT-0,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	01108ROT-5,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00150ROT-4,	2014-09-15,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
+null,	00124ROT-7,	2014-07-21,	< LDL copies/ml,	N/A,	Invalid Patient Record. Corresponding VL request not found.
