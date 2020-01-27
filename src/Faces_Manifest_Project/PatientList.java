@@ -228,8 +228,8 @@ public class PatientList {
     public void SaveManifest() throws SQLException {
         try {
             for (PatientDetails patient : vlPatientList) {
-                if (patient.isShipped()) {
-
+//                if (patient.isShipped()) {
+                    if (patient.isImported()) {
                     String sql_update = "update obs o \n";
                     sql_update += "join patient_identifier pi on pi.patient_id=o.person_id \n";
                     sql_update += "set o.value_coded=1065 \n";
@@ -745,16 +745,23 @@ public class PatientList {
         try {
 
             // SQL Statement to extract the MFL code for the specified patient
-            String sqlStatement = 
-                    "SELECT mfl_code FROM(SELECT substring(pid.identifier,1,5) AS mfl_code," +
-"                    count(substring(pid.identifier,1,5))  as occurence " +
-"                    FROM " +
-"                    encounter e " +
-"                    INNER JOIN patient_identifier pid ON e.patient_id=pid.patient_id " +
-"                    WHERE pid.identifier_type = 9 " +
-"                    group by mfl_code " +
-"                    Order by occurence DESC " +
-"                    LIMIT 1)as mfl ";
+
+           String sqlStatement="SELECT la.value_reference as mfl_code FROM location l " +
+                    "inner JOIN location_attribute la ON l.location_id=la.location_id AND l.retired=0 and la.voided=0 and la.attribute_type_id IN(1) " +
+                    "INNER JOIN patient_identifier pi ON pi.location_id=l.location_id and pi.voided=0 " +
+                    "inner JOIN person p ON pi.patient_id=p.person_id AND p.voided=0 and p.uuid in('"+patientUUID+"') " +
+                    "LIMIT 1";
+            
+//            String sqlStatement = 
+//                    "SELECT mfl_code FROM(SELECT substring(pid.identifier,1,5) AS mfl_code," +
+//"                    count(substring(pid.identifier,1,5))  as occurence " +
+//"                    FROM " +
+//"                    encounter e " +
+//"                    INNER JOIN patient_identifier pid ON e.patient_id=pid.patient_id " +
+//"                    WHERE pid.identifier_type = 9 " +
+//"                    group by mfl_code " +
+//"                    Order by occurence DESC " +
+//"                    LIMIT 1)as mfl ";
 
 //            String sqlStatement = "SELECT LEFT(pid.identifier,5) AS mfl_code " +
 //                "FROM patient_identifier pid " +
@@ -803,15 +810,8 @@ public class PatientList {
 //                    "ORDER BY pid.date_created";
 
             // Get the MFL Code
-            String sqlStatement = ""
-                    + "SELECT mfl_code FROM(SELECT substring(pid.identifier,1,5) AS mfl_code," +
-"                    count(substring(pid.identifier,1,5))  as occurence " +
-"                    FROM patient_identifier pid " +
-"                    INNER JOIN location l ON pid.location_id = l.location_id AND l.name =\"" + facilityName + "\" " +
-"                    WHERE pid.identifier_type = 9 " +
-"                    group by mfl_code " +
-"                    Order by occurence DESC " +
-"                    LIMIT 1)as mfl";
+            String sqlStatement = "SELECT la.value_reference as mfl_code FROM location l JOIN location_attribute la ON l.location_id=la.location_id " +
+                    "AND l.retired=0 and la.voided=0 and la.attribute_type_id IN(1) AND l.name IN('"+facilityName+"') ";
 
             rs = dao.getPatientRecords(sqlStatement);
             if(rs.isBeforeFirst()){
@@ -1096,6 +1096,10 @@ public class PatientList {
                 // Execute REST string
                 //isUploaded = ampath.getRequestPost(dao.getRestPOST(1) + "?", null, param);
                 isUploaded = ampath.getRequestPost(dao.getRestPOST(1) + "?", null, paramString, dao.getRestAPIKey());    // Edwin: 26Nov18
+                
+                System.out.println("Rest post :"+dao.getRestPOST(1));
+                System.out.println("message sent : "+paramString);
+                System.out.println("status : "+isUploaded);
 
                 patient.setImported(isUploaded == 1 ? true : false);
 
@@ -1172,7 +1176,7 @@ public class PatientList {
             // Build the URL parameters needed to extract the results
             // Edwin: 28Nov18
             getRequestParams = "{";
-            getRequestParams += "\"test\":\"2\"" + ",";
+//            getRequestParams += "\"test\":\"2\"" + ",";
             getRequestParams += "\"start_date\":\"" + vlImportStartDate + "\",";
             getRequestParams += "\"end_date\":\"" + vlImportEndDate + "\",";
             getRequestParams += "\"facility_code\":\"" + getFacilityMFLCode(importFacility) + "\",";

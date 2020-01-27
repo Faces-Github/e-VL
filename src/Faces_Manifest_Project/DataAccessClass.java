@@ -255,10 +255,9 @@ public class DataAccessClass {
         ResultSet rs;
         
 //        GET ALL Locations order by number of records. the one with many records will be the first one
-        String sqlStatement="SELECT name FROM(Select name," +
-"count(DISTINCT(e.patient_id)) As pats from location l " +
-"INNER JOIN encounter e on e.location_id=l.location_id where l.retired=0 AND e.voided=0 " +
-"GROUP BY name order by pats desc,name asc) AS fac LIMIT 1";
+        String sqlStatement="SELECT l.name AS name FROM location l JOIN location_attribute la ON l.location_id=la.location_id " +
+                "AND l.retired=0 and la.voided=0 and la.attribute_type_id IN(1) " +
+                "ORDER BY l.name ASC ";
 
         PreparedStatement stmt = connection.prepareStatement(sqlStatement);
 
